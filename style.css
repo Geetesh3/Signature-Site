@@ -336,7 +336,7 @@ ul,li,a{
     margin: 8px 8px 14px 8px;
     padding: 0px;
     width: 5rem;
-    height: 2rem;
+    height: 44px;
     border: none;
     outline: none;
     color: #0b0202;
@@ -373,7 +373,7 @@ ul,li,a{
         margin: 8px 8px 14px 8px;
         padding: 0px;
         width: 5rem;
-        height: 2rem;
+        height: 44px;
         border: none;
         outline: none;
         color: #0b0202;
@@ -399,8 +399,8 @@ ul,li,a{
     .w-btn {
         margin: 8px 8px 14px 8px;
         padding: 0px;
-        width: 4rem;
-        height: 2rem;
+        width: 5rem;
+        height: 44px;
         border: none;
         outline: none;
         color: #0b0202;
@@ -431,8 +431,8 @@ ul,li,a{
     .w-btn {
         margin: 8px 8px 14px 8px;
         padding: 0px;
-        width: 4rem;
-        height: 2rem;
+        width: 5rem;
+        height: 44px;
         border: none;
         outline: none;
         color: #0b0202;
@@ -492,7 +492,7 @@ ul,li,a{
         margin: 8px 8px 14px 8px;
         padding: 0px;
         width: 6rem;
-        height: 2rem;
+        height: 44px;
         border: none;
         outline: none;
         color: #0b0202;
@@ -535,7 +535,7 @@ ul,li,a{
         margin: 8px 8px 14px 8px;
         padding: 0px;
         width: 6rem;
-        height: 2rem;
+        height: 44px;
         border: none;
         outline: none;
         color: #0b0202;
