@@ -142,9 +142,17 @@ ul,li,a{
     border-radius: 50%;
 }
 /* Specification */
+.row{
+    display: flex;
+    width: auto;
+    align-items: center;
+    justify-content: space-between;
+
+}
 .specifications{
     margin: 0px 0px 22px 0px;
     padding: 0px;
+    width: 70rem;
 }
 .specify{
     margin: 10px 0px 22px 30px;
@@ -187,6 +195,42 @@ ul,li,a{
 .wordpress{ 
     width: 90%; 
 } 
+.Notice-Board{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px 38px 0px 0px;
+    padding: 0px;
+}
+.noticehead{
+    font-size: 1.5rem;
+    margin: 4px 0px 11px 0px;
+    padding: 0px;
+    text-align: center;
+
+}
+
+.noticebox {
+    width: 20rem;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    height: 20rem;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.fa-hand-o-right:before {
+    content: "\261E";
+    font-size: 34px;
+}
 
 /* my works */
 .imgcaption{
